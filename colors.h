@@ -1,6 +1,6 @@
 /**	Arduino Color Library for Seeed Studio 2.8" TFT Touch Screen
  *
- *  Copyright (c) 2010 by Bradley Petersen <bpetersen@ieee.org>
+ *  Copyright (c) 2014 by Bradley Petersen <bpetersen@ieee.org>
  *
  *  The MIT License (MIT)
  *
