@@ -19,7 +19,7 @@ oscilloscope	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-AERO_BLUE
+AERO  LITERAL1
 AERO_BLUE	LITERAL1
 AFRICAN_VIOLET	LITERAL1
 AIR_FORCE_BLUE_RAF	LITERAL1
